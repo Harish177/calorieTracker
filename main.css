@@ -3,6 +3,9 @@
 	font-family: "Montserrat", sans-serif;
 	overflow: auto;
 }
+body{
+	background-color:#000000 !important
+}
 table,
 th,
 td,
